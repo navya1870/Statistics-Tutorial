@@ -7,19 +7,27 @@ This repository contains my practice and learning work with **Statistics** using
 - Introduction to Statistics
 - Population and Sample
 - Types of Data
+- Data Analysis
 - Measures of Central Tendency
   - Mean
   - Median
   - Mode
 - Measures of Dispersion
   - Range
+  - Interquartile Range
   - Variance
   - Standard Deviation
 - Percentiles and Quartiles
+- Outliers
 - Probability
 - Probability Distributions
 - Normal Distribution
 - Skewness and Kurtosis
+- Hypothesis Testing
+  - Z Test
+  - T Test
+  - Chi Sqaure Test
+  - ANOVA Test  
 - Covariance and Correlation
 - Descriptive Statistical Analysis
 
